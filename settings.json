@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mrstreamlifesteal.aternos.me",
-    "port": 18974,
+    "ip": "m",
+    "port": 18,
     "version": "1.20.1",
     "try-creative": false
   },
